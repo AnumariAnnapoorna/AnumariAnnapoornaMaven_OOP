@@ -1,0 +1,8 @@
+package newyeargift;
+
+public class Newyear {
+	public void display()
+	{
+		System.out.println("Happy NewYear");
+	}
+}

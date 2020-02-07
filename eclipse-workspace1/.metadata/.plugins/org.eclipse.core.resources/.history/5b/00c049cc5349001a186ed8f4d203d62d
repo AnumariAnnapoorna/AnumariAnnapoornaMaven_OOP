@@ -1,0 +1,15 @@
+package newyeargift;
+
+/**
+ * Hello world!
+ *
+ */
+public class App extends Newyear
+{
+    public static void main( String[] args )
+    {
+    	Newyear n=new Newyear();
+    	n.display();
+        System.out.println( "Hello World!" );
+    }
+}

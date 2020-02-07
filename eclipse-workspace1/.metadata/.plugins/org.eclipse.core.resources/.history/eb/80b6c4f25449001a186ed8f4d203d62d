@@ -1,0 +1,18 @@
+package newyeargift;
+
+public interface Chocolate {
+	int weight=0;
+	int price=0;
+	Chocolate(int weight,int price)
+	{
+		this.weight=weight;
+		this.price=price;
+	}
+	public int getWeight()
+	{
+	}
+	public int getPrice()
+	{
+	}
+
+}
